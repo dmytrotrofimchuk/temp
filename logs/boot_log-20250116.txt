@@ -1,0 +1,1 @@
+2025-01-16 14:35:53.209 +02:00 [INF] There is no AWS CloudWatch settings provided. Skipping CloudWatch logging
